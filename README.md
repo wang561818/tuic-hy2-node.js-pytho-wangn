@@ -7,7 +7,7 @@
   修复了随着每个客户端连接而累积的服务器端内存泄漏问题
 
 ```
-curl -Ls https://raw.githubusercontent.com/wang561818/tuic-hy2-node.js-python-wang/main/hy2.sh | sed 's/\r$//' | bash
+curl -Ls https://raw.githubusercontent.com/wang561818/tuic-hy2-node.js-pytho-wang/main/hy2.sh | sed 's/\r$//' | bash
 ```
 
 
@@ -26,6 +26,6 @@ curl -Ls https://raw.githubusercontent.com/wang561818/tuic-hy2-node.js-python-wa
       将日志更改为跟踪
 
 ```
-curl -Ls https://raw.githubusercontent.com/wang561818/tuic-hy2-node.js-python-wang/main/tuic.sh | sed 's/\r$//' | bash
+curl -Ls https://raw.githubusercontent.com/wang561818/tuic-hy2-node.js-pytho-wang/main/tuic.sh | sed 's/\r$//' | bash
 ```
 
